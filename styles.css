@@ -1,7 +1,7 @@
-p{
+.test{
 	width: 300px;
 	padding: 50px;
-	background-color: lightblue;
+	background: lightblue;
 	border: 15px solid blue;
 	margin: 20px;
 }
